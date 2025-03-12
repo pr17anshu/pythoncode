@@ -1,5 +1,5 @@
 print("Wassup Buddy!! v967s")
-printssup !! v967s")
+print("ssup !! v967s")
 
 
 
